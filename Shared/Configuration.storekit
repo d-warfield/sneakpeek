@@ -1,0 +1,136 @@
+{
+  "identifier" : "D0870FDE",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "947880C5",
+      "localizations" : [
+
+      ],
+      "name" : "testing_group_1",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "D16DBB66",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Test Group 1 - $1.99 description",
+              "displayName" : "Test Group 1 - $2.99",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.id",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "testing_group_1_sub_2.99",
+          "subscriptionGroupID" : "947880C5",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "36789A3F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Test Group 1 - $1.99 - description",
+              "displayName" : "Test Group 1 - $1.99",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.id",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "testing_group_1_sub_1.99",
+          "subscriptionGroupID" : "947880C5",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "2B3B6AE6",
+      "localizations" : [
+
+      ],
+      "name" : "testing_group_2",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1EE9C2C5",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Test Group 2 - $1.99 - description",
+              "displayName" : "Test Group 2 - $1.99",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.id",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "testing_group_2_sub_1.99",
+          "subscriptionGroupID" : "2B3B6AE6",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "B6CA2956",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Test Group 2 - $1.99 - description",
+              "displayName" : "Test Group 2 - $1.99",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temporary.id",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "testing_group_2_sub_2.99",
+          "subscriptionGroupID" : "2B3B6AE6",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
